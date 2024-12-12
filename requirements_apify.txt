@@ -1,0 +1,7 @@
+
+apify-client>=1.6.0
+newsapi-python>=0.2.7
+python-dotenv>=1.0.1
+requests>=2.32.3
+trafilatura>=2.0.0
+colorama>=0.4.6

@@ -1,0 +1,14 @@
+
+{
+    "name": "news-scraper",
+    "version": "1.0",
+    "buildTag": "latest",
+    "env": {
+        "NEWSAPI_KEY": "",
+        "ARTICLE_LIMIT": "10",
+        "SEARCH_TERMS": "SBA loans,SBA lending,SBA loan programs,7(a) loan program"
+    },
+    "scripts": {
+        "start": "python3 apify_main.py"
+    }
+}
